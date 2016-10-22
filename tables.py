@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.5
+#!/usr/bin/env python3
 
 print("Входные данные")
 class1 = round(int(input()) / 2 + 0.1)
